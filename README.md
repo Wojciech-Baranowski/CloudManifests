@@ -1,1 +1,1 @@
-# CloudManifests
+Manifests for k8s cloud.
